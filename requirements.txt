@@ -1,0 +1,16 @@
+botcity-framework-core>=0.4.0,<1.0
+botcity-framework-web>=0.7.0,<1.0
+botcity-maestro-sdk>=0.3.3,<1.0
+botcity-email-plugin>=0.1.3
+botcity-excel-plugin>=0.1.1
+pandas>=1.5.1
+botcity-utils>=0.1.2
+openpyxl>=1.1.0
+webdriver-manager>=3.8.6
+pyodbc>=4.0.38
+opencv-python>=4.5.5.64
+botcity-recorder-plugin>=0.1.2
+clicknium==0.1.22
+
+# Uncomment to use botcity-crawler-plugin
+#botcity-crawler-plugin

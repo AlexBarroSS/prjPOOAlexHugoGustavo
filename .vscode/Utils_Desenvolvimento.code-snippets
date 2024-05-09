@@ -1,0 +1,33 @@
+{
+	"Gerar função": {
+	  "prefix": "func",
+	  "body": [
+		"def ${1:<NOME FUNCAO/METODO>}(${2:<PARAMETROS>}):",
+		"",
+        "\t$0",
+        "", 
+        "\treturn"
+	  ],
+	  "description": "Gera uma função já com a implementação do write log de inicio e fim e com o try catch."
+	},
+    "Gerar método": {
+      "prefix": "metod",
+      "body": [
+        "def ${1:<NOME FUNCAO/METODO>}(${2:<PARAMETROS>}):",
+        "",
+        "\t$0",
+        ""
+      ],
+      "description": "Gera um método já com a implementação do write log de inicio e fim e com o try catch."
+    },      
+    "For Loop": {
+      "prefix": "for",
+      "body": [
+        "for ${2:element} in ${1:array}:",
+        "\t$0",
+        ""        
+    ],
+      "description": "A for loop."
+    }
+      
+}

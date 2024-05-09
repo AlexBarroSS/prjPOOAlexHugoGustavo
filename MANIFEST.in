@@ -1,0 +1,16 @@
+include README.rst
+include VERSION
+include requirements.txt
+
+recursive-exclude * __pycache__
+recursive-exclude * *.py[co]
+
+recursive-include .locator *
+recursive-include .vscode *
+recursive-include */resources *
+recursive-include */classes_t2c *.py
+
+recursive-exclude */resources/relatorios_saida *.xlsx
+
+# If including data files in the package, add them like:
+# include path/to/data_file

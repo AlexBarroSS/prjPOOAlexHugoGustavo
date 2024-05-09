@@ -1,0 +1,7 @@
+<p>Prezados,</p>
+<p>Ocorreu um erro n&atilde;o esperado durante o processo *NOME_ROBO*.</p>
+<p>Segue a descri&ccedil;&atilde;o do erro e uma imagem do mesmo em anexo.</p>
+<p><strong>*ERRO_TIPO*</strong></p>
+<p><strong>*ERRO_DETALHES*</strong></p>
+<p>Atenciosamente,</p>
+<p><strong>RPA</strong></p>

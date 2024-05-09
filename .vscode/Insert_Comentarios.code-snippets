@@ -1,0 +1,21 @@
+{
+	"Gerar estrutura para comentário da função ou classe": {
+	  "prefix": "coment",
+	  "body": [
+		"\"\"\"",
+		"{DESCRICAO DA CLASSE/FUNCAO/METODO}",
+		"",
+        "Parâmetros:",
+        "   - arg_intExemplo1(int): descrição sobre o que é o argumento",
+		"   - arg_strExemplo2(str): descrição sobre o que é o argumento",
+		"   - arg_boolExemplo3(bool): descrição sobre o que é o argumento",
+		"   {a palavra 'Parâmetros:' deve ser deixada independente se há argumentos ou não, caso não tenha argumento basta não coloca-los.}",
+        "", 
+        "Retorna:",
+        "   - boolean: exemplo da descrição sobre o retorno da função, caso seja classe não precisa",
+		"\"\"\"",
+        "\n"
+	  ],
+	  "description": "Gera a estrutura de comentário padrão de doc strings e que será capturada pelo SDD."
+	}
+  }

@@ -1,0 +1,7 @@
+<p>Prezados,</p>
+<p>O processo do rob&ocirc; <strong>*NOME_ROBO*</strong> foi finalizado *FINALIZACAO*.</p>
+<p>A atividade foi iniciada as <strong>*DATAHORA_INI*</strong> e finalizada as <strong>*DATAHORA_FIM*</strong>.</p>
+<br>
+<p>Atenciosamente,</p>
+<p><em><strong>RPA</strong></em>.</p>
+<p><br></p>
